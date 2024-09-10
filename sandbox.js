@@ -1,4 +1,4 @@
-var myName = "Abdullah Aslam";
+var myName = "yousuf";
 console.log(myName);
 
 var message = "HELLO WORLD";
@@ -16,7 +16,7 @@ var pizza = "PIZZA\nPIZZ\nPIZ\nPI\nP";
 alert(pizza);
 
 var email = "My email address is ";
-alert(email + "aabdullahaslam91@gmail.com");
+alert(email + "yousuf23325268@gmail.com");
 
 var Book = "A smarter way to learn Javascript";
 alert("I am trying to learn from the Book. " + Book);
